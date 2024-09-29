@@ -1,0 +1,31 @@
+h1 {
+    background-color: red;
+    color: white;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+.main-links {
+    background-color: darkorange;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    background-color: darkblue;
+    color: white
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+ol {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingredients {
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
