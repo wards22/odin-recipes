@@ -2,22 +2,29 @@ h1 {
     background-color: red;
     color: white;
     font-family: Tahoma, Verdana, sans-serif;
+    margin: 0 0 10px 0;
+    padding: 8px;
+    text-align: center;
 }
 
 .main-links {
     background-color: darkorange;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+    text-align: center;
 }
 
 h4 {
     background-color: darkblue;
-    color: white
+    color: white;
+    padding: 4px;
 }
 
 h2 {
     background-color: black;
     color: white;
+    padding: 4px;
 }
 
 ol {
@@ -28,4 +35,11 @@ ol {
 .ingredients {
     font-weight: bold;
     font-family:'Times New Roman', Times, serif;
+}
+
+.recipe-images {
+    margin: auto;
+    width: 50%;
+    border: 3px sold blue;
+    padding: 10px;
 }
